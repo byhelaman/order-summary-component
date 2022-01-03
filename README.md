@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/byhelaman/order-summary-component
-- Live Site URL: 
+- Live Site URL: https://hungry-perlman-7ae2c1.netlify.app
 
 ## My process
 
